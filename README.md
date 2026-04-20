@@ -1,8 +1,8 @@
-\## Final Project for Physics 6260
+## Final Project for Physics 6260
 
 
 
-\## Team Members
+## Team Members
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-\## Project Description
+## Project Description
 
 
 
